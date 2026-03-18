@@ -71,19 +71,24 @@ The passive index returned $24,634. Walmart returned $26.7 million. Active selec
 ## Visuals
 
 ### $10K Investment Value by Ticker
-![10K Simulation](visuals/Chart1_10K_Investment_Value_by_Ticker.png)
+<img width="2767" height="1600" alt="Chart1_10K_Investment_Value_by_Ticker" src="https://github.com/user-attachments/assets/8853e7e5-a2b8-403f-aa52-d137688d0e17" />
+
 
 ### Total Return by Sector (1970 to 2017)
-![Sector Returns](visuals/Chart2_Total_Return_by_Sector_1970_2017.png)
+<img width="2767" height="1600" alt="Chart2_Total_Return_by_Sector_1970_2017" src="https://github.com/user-attachments/assets/2e73a13f-3af5-40c7-a3a0-b138c8bfd674" />
+
 
 ### Walmart Beat the 1974 Oil Crisis
-![1974 Crisis](visuals/Chart3_Walmart_Beat_1974_Oil_Crisis.png)
+<img width="2767" height="1600" alt="Chart3_Walmart_Beat_1974_Oil_Crisis" src="https://github.com/user-attachments/assets/a7b137b9-9b1f-4c09-abec-6b87e41e2a7f" />
+
 
 ### NVDA Defied the Dot Com Crash Until Consumer Spending Collapsed
-![Dot Com](visuals/Chart4_NVDA_Defied_Dot_Com_Crash.png)
+<img width="2767" height="1600" alt="Chart4_NVDA_Defied_Dot_Com_Crash" src="https://github.com/user-attachments/assets/9da8d55a-4d43-432f-8414-46807331993e" />
+
 
 ### Three Crashes. Three Decades. One Winner.
-![2008 Crisis](visuals/Chart5_Three_Crashes_Three_Decades_One_Winner.png)
+<img width="2767" height="1600" alt="Chart5_Three_Crashes_Three_Decades_One_Winner" src="https://github.com/user-attachments/assets/6de13eee-ad3d-4724-afeb-1edc4f9ddb2c" />
+
 
 ---
 
